@@ -1,1 +1,12 @@
+body{
+    background-color: rgb(193, 213, 231);
+    font-size: 1.2rem;
+}
 
+::placeholder{
+    opacity: 50%;
+}
+
+button:hover{
+    background-color: rgb(187, 215, 231);
+}
